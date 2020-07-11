@@ -38,3 +38,9 @@
 | たかさご家 | 武蔵家(中野) | 武道家 |
 
 ？勝鬨家？
+
+- 参考
+    - [吉村家](http://ieke1.com/index.html)
+	- [家系ラーメン家系図](http://hamarepo.com/story.php?story_id=7011)
+	- [時系列で追う家系ラーメン](https://note.com/chutote/n/nd016f1274867)
+	- [麺で見る家系ラーメン](https://note.com/chutote/n/n8730ebf462ad)
