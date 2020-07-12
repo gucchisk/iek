@@ -88,8 +88,9 @@
 
 
 # 参考文献
-    - [吉村家](http://ieke1.com/index.html)
-    - [家系ラーメン家系図](http://hamarepo.com/story.php?story_id=7011)
-   	- [時系列で追う家系ラーメン](https://note.com/chutote/n/nd016f1274867)
-    - [麺で見る家系ラーメン](https://note.com/chutote/n/n8730ebf462ad)
-    - [【六角家】家系御三家　六角家系譜のﾗｰﾒﾝ店をご紹介。その①（NO1～27）](https://tabelog.com/matome/4384/#27-restaurant)
+
+- [吉村家](http://ieke1.com/index.html)
+- [家系ラーメン家系図](http://hamarepo.com/story.php?story_id=7011)
+- [時系列で追う家系ラーメン](https://note.com/chutote/n/nd016f1274867)
+- [麺で見る家系ラーメン](https://note.com/chutote/n/n8730ebf462ad)
+- [【六角家】家系御三家　六角家系譜のﾗｰﾒﾝ店をご紹介。その①（NO1～27）](https://tabelog.com/matome/4384/#27-restaurant)
